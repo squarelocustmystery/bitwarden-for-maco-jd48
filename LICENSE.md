@@ -1,4 +1,4 @@
-# 
+# Get the ultimate 1Password for macOS addon with 1Password for macOS instant Addon: biometric-login & secure-notes. Featuring biometric-login and secure-notes, it's the best choice
 
 
 
